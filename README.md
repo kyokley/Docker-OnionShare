@@ -1,4 +1,6 @@
 # Docker OnionShare
+## Introduction
+OnionShare (https://onionshare.org/) is a tool for securely and anonymously sharing files and communicating. The purpose of this repo is to dockerize running the server to put all of the required software into a convenient container.
 ## Usage
 ```
 docker run --rm -t kyokley/onionshare
